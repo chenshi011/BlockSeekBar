@@ -1,0 +1,15 @@
+<resources>
+    <style name="BlockSeekBar_Default">
+        <item name="block_width">16dp</item>
+        <item name="block_height">40dp</item>
+        <item name="block_color">@android:color/black</item>
+        <item name="block_radius">0dp</item>
+        <item name="block_line_width">1dp</item>
+        <item name="block_space">6dp</item>
+        <item name="block_progress">0</item>
+        <item name="block_max">100</item>
+        <item name="block_text_size">24sp</item>
+        <item name="block_text_space">4dp</item>
+        <item name="block_drawtext">true</item>
+    </style>
+</resources>
